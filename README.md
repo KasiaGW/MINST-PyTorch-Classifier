@@ -202,10 +202,10 @@ jupyter notebook
 - Analyzing loss curves and overfitting  
 - Creating confusion matrices and evaluation reports  
 - Benchmarking CPU vs GPU performance  
-- Preparing ML projects for GitHub and recruitment  
 
 ---
 
 ## License
 
 MIT License
+
